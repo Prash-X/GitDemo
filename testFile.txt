@@ -1,2 +1,4 @@
 This is a new file, new line.
-This is the second line in the new file
+This is the second line in the new file 
+I changes the file
+
